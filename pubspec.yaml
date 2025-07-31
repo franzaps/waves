@@ -1,6 +1,6 @@
 name: waves
 description: A Nostr-enabled Flutter photo sharing application
-version: 0.1.0
+version: 0.1.1
 
 publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
@@ -90,11 +90,8 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  assets:
-    - assets/images/
-    - assets/images/waves_icon.svg
-    - assets/images/first.png
-    - assets/images/purplestack.png
+  # assets:
+  # - assets/images/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

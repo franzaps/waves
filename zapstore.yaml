@@ -1,5 +1,7 @@
 name: Waves
 description: Waves is a decentralized photo-sharing social media app built on the Nostr protocol that lets users share images, discover content through hashtags, and engage with posts through likes, zaps, and comments.
+icon:
+  - assets/images/waves_logo.png
 images:
   - assets/images/first.png
 assets:
